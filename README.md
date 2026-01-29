@@ -9,8 +9,8 @@
 L'obiettivo del presente progetto è analizzare un dataset di testi e costruire un classificatore capace di distinguere tra **testi scritti da umani** e **testi generati da intelligenze artificiali**.
 
 L'analisi confronta due approcci distinti:
-* [cite_start]**Approccio statistico:** basato su feature strutturali del testo (lunghezza del testo, conteggio parole, lunghezza media delle parole).
-* [cite_start]**Approccio sequenziale:** basato su reti neurali **LSTM** per catturare pattern linguistici complessi e dipendenze a lungo raggio[cite: 85].
+* **Approccio statistico:** basato su feature strutturali del testo (lunghezza del testo, conteggio parole, lunghezza media delle parole).
+* **Approccio sequenziale:** basato su reti neurali **LSTM** per catturare pattern linguistici complessi e dipendenze a lungo raggio[cite: 85].
 Il progetto dimostra come l'approccio basato su Deep Learning sia estremamente efficace nel riconoscere pattern ripetitivi tipici dell'AI, superando i limiti della separazione lineare dei modelli statistici classici.
 
 ## Workflow
