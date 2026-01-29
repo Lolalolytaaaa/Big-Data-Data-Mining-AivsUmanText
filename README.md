@@ -11,7 +11,6 @@ L'obiettivo del presente progetto è analizzare un dataset di testi e costruire 
 L'analisi confronta due approcci distinti:
 * [cite_start]**Approccio statistico:** basato su feature strutturali del testo (lunghezza del testo, conteggio parole, lunghezza media delle parole).
 * [cite_start]**Approccio sequenziale:** basato su reti neurali **LSTM** per catturare pattern linguistici complessi e dipendenze a lungo raggio[cite: 85].
-
 Il progetto dimostra come l'approccio basato su Deep Learning sia estremamente efficace nel riconoscere pattern ripetitivi tipici dell'AI, superando i limiti della separazione lineare dei modelli statistici classici.
 
 ## Workflow
@@ -38,4 +37,4 @@ Il progetto dimostra come l'approccio basato su Deep Learning sia estremamente e
 [cite_start]Dataset contenente circa 500k testi etichettati per il rilevamento di contenuti generati da AI: [Link al Dataset su Kaggle](https://www.kaggle.com/code/mukaffimoin/ai-vs-human-text-detection/notebook)[cite: 18].
 
 ---
-**Nur**, Università degli Studi di [Tuo Nome Università], Gennaio 2026
+**Scotti**, Tecnologie dei Sistemi Informatici - Big Data, Data Mining e Data Analytics
