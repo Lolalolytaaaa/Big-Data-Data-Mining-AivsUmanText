@@ -5,8 +5,8 @@
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20Keras-red.svg)
 ![Statsmodels](https://img.shields.io/badge/Stats-Statsmodels-lightblue.svg)
 
-## Introduzione e motivazioni
-L'obiettivo del presente progetto è analizzare un dataset di testi e costruire un classificatore capace di distinguere tra **testi scritti da umani** e **testi generati da intelligenze artificiali**.
+## Introduzione
+L'obiettivo del nostro progetto è analizzare un dataset di testi e costruire un classificatore capace di distinguere tra **testi scritti da umani** e **testi generati da intelligenze artificiali**.
 
 L'analisi confronta due approcci distinti:
 * **Approccio statistico:** basato su feature strutturali del testo (lunghezza del testo, conteggio parole, lunghezza media delle parole).
